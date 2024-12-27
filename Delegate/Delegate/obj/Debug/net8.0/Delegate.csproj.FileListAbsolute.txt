@@ -1,0 +1,14 @@
+D:\Desktop\Study\C#\Delegate\Delegate\bin\Debug\net8.0\Delegate.exe
+D:\Desktop\Study\C#\Delegate\Delegate\bin\Debug\net8.0\Delegate.deps.json
+D:\Desktop\Study\C#\Delegate\Delegate\bin\Debug\net8.0\Delegate.runtimeconfig.json
+D:\Desktop\Study\C#\Delegate\Delegate\bin\Debug\net8.0\Delegate.dll
+D:\Desktop\Study\C#\Delegate\Delegate\bin\Debug\net8.0\Delegate.pdb
+D:\Desktop\Study\C#\Delegate\Delegate\obj\Debug\net8.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Study\C#\Delegate\Delegate\obj\Debug\net8.0\Delegate.AssemblyInfoInputs.cache
+D:\Desktop\Study\C#\Delegate\Delegate\obj\Debug\net8.0\Delegate.AssemblyInfo.cs
+D:\Desktop\Study\C#\Delegate\Delegate\obj\Debug\net8.0\Delegate.csproj.CoreCompileInputs.cache
+D:\Desktop\Study\C#\Delegate\Delegate\obj\Debug\net8.0\Delegate.dll
+D:\Desktop\Study\C#\Delegate\Delegate\obj\Debug\net8.0\refint\Delegate.dll
+D:\Desktop\Study\C#\Delegate\Delegate\obj\Debug\net8.0\Delegate.pdb
+D:\Desktop\Study\C#\Delegate\Delegate\obj\Debug\net8.0\Delegate.genruntimeconfig.cache
+D:\Desktop\Study\C#\Delegate\Delegate\obj\Debug\net8.0\ref\Delegate.dll

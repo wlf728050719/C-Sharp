@@ -1,0 +1,14 @@
+D:\Desktop\Study\C#\BaseUse\BaseUse\bin\Debug\net8.0\BaseUse.exe
+D:\Desktop\Study\C#\BaseUse\BaseUse\bin\Debug\net8.0\BaseUse.deps.json
+D:\Desktop\Study\C#\BaseUse\BaseUse\bin\Debug\net8.0\BaseUse.runtimeconfig.json
+D:\Desktop\Study\C#\BaseUse\BaseUse\bin\Debug\net8.0\BaseUse.dll
+D:\Desktop\Study\C#\BaseUse\BaseUse\bin\Debug\net8.0\BaseUse.pdb
+D:\Desktop\Study\C#\BaseUse\BaseUse\obj\Debug\net8.0\BaseUse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Study\C#\BaseUse\BaseUse\obj\Debug\net8.0\BaseUse.AssemblyInfoInputs.cache
+D:\Desktop\Study\C#\BaseUse\BaseUse\obj\Debug\net8.0\BaseUse.AssemblyInfo.cs
+D:\Desktop\Study\C#\BaseUse\BaseUse\obj\Debug\net8.0\BaseUse.csproj.CoreCompileInputs.cache
+D:\Desktop\Study\C#\BaseUse\BaseUse\obj\Debug\net8.0\BaseUse.dll
+D:\Desktop\Study\C#\BaseUse\BaseUse\obj\Debug\net8.0\refint\BaseUse.dll
+D:\Desktop\Study\C#\BaseUse\BaseUse\obj\Debug\net8.0\BaseUse.pdb
+D:\Desktop\Study\C#\BaseUse\BaseUse\obj\Debug\net8.0\BaseUse.genruntimeconfig.cache
+D:\Desktop\Study\C#\BaseUse\BaseUse\obj\Debug\net8.0\ref\BaseUse.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desktop\\Study\\C#\\Reflect\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{270B8C2D-A934-4712-9B2F-F0BF7FE4362A}|Reflect\\Reflect.csproj|d:\\desktop\\study\\c#\\reflect\\reflect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{270B8C2D-A934-4712-9B2F-F0BF7FE4362A}|Reflect\\Reflect.csproj|solutionrelative:reflect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Desktop\\Study\\C#\\Reflect\\Reflect\\Program.cs",
+              "RelativeDocumentMoniker": "Reflect\\Program.cs",
+              "ToolTip": "D:\\Desktop\\Study\\C#\\Reflect\\Reflect\\Program.cs",
+              "RelativeToolTip": "Reflect\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T07:40:17.022Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\Desktop\Study\C#\Attribute\Attribute\bin\Debug\net8.0\Attribute.exe
+D:\Desktop\Study\C#\Attribute\Attribute\bin\Debug\net8.0\Attribute.deps.json
+D:\Desktop\Study\C#\Attribute\Attribute\bin\Debug\net8.0\Attribute.runtimeconfig.json
+D:\Desktop\Study\C#\Attribute\Attribute\bin\Debug\net8.0\Attribute.dll
+D:\Desktop\Study\C#\Attribute\Attribute\bin\Debug\net8.0\Attribute.pdb
+D:\Desktop\Study\C#\Attribute\Attribute\obj\Debug\net8.0\Attribute.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Study\C#\Attribute\Attribute\obj\Debug\net8.0\Attribute.AssemblyInfoInputs.cache
+D:\Desktop\Study\C#\Attribute\Attribute\obj\Debug\net8.0\Attribute.AssemblyInfo.cs
+D:\Desktop\Study\C#\Attribute\Attribute\obj\Debug\net8.0\Attribute.csproj.CoreCompileInputs.cache
+D:\Desktop\Study\C#\Attribute\Attribute\obj\Debug\net8.0\Attribute.dll
+D:\Desktop\Study\C#\Attribute\Attribute\obj\Debug\net8.0\refint\Attribute.dll
+D:\Desktop\Study\C#\Attribute\Attribute\obj\Debug\net8.0\Attribute.pdb
+D:\Desktop\Study\C#\Attribute\Attribute\obj\Debug\net8.0\Attribute.genruntimeconfig.cache
+D:\Desktop\Study\C#\Attribute\Attribute\obj\Debug\net8.0\ref\Attribute.dll
